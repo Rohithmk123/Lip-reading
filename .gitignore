@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+ENV/
+env/
+*.sqlite3
+
+# Jupyter and Colab
+.ipynb_checkpoints
+.notebooks/
+.colab/
+
+# OS files
+.DS_Store
+Thumbs.db

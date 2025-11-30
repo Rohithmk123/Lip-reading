@@ -1,0 +1,7 @@
+# Add your actual project dependencies here.
+# Below are examples based on typical ML usage:
+numpy
+pandas
+scikit-learn
+matplotlib
+# Add more as needed...
